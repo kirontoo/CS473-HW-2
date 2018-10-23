@@ -1,0 +1,70 @@
+{
+	"students": [
+        {
+            "fname": "James",
+            "lname": "Lambert",
+            "course": ["Game Design", "Web-Front-End", "iOS", "Calculus"],
+            "gpa": ["A", "B", "A", "B"]
+        }, {
+            "fname": "Victor",
+            "lname": "Lopez",
+            "course": ["Biology", "US History", "English", "Calculus"],
+            "gpa": ["A", "C", "A", "B"]
+        }, {
+            "fname": "Amber",
+            "lname": "Cannon",
+            "course": ["US History", "Web-Front-End", "Biology", "Calculus"],
+            "gpa": ["D", "B", "A", "B"]
+        }, {
+            "fname": "Mandy",
+            "lname": "Reid",
+            "course": ["English", "Chemistry", "Graphic Design", "Calculus"],
+            "gpa": ["A", "D", "F", "B"]
+        }, {
+            "fname": "Annie",
+            "lname": "Johnson",
+            "course": ["English", "Statistics", "Biology", "Calculus"],
+            "gpa": ["A", "B", "A", "F"]
+        }, {
+            "fname": "James",
+            "lname": "Owens",
+            "course": ["Chemistry", "Graphic Design", "iOS", "Algebra"],
+            "gpa": ["B", "B", "C", "B"]
+        }, {
+            "fname": "Betty",
+            "lname": "Riley",
+            "course": ["Game Design", "Biology", "iOS", "Calculus"],
+            "gpa": ["C", "B", "C", "B"]
+        }, {
+            "fname": "Freddie",
+            "lname": "Lambert",
+            "course": ["English", "Statistics", "US History", "US History"],
+            "gpa": ["F", "B", "D", "B"]
+        }, {
+            "fname": "Ivan",
+            "lname": "Riley",
+            "course": ["US History", "Statistics", "English", "Calculus"],
+            "gpa": ["A", "B", "A", "B"]
+        } , {
+            "fname": "Darryl",
+            "lname": "Dixon",
+            "course": ["Chemistry", "Statistics", "US History", "Algebra"],
+            "gpa": ["A", "B", "B", "B"]
+        }, {
+            "fname": "Freddie",
+            "lname": "Johnson",
+            "course": ["Game Design", "English", "iOS", "Calculus"],
+            "gpa": ["D", "B", "A", "D"]
+        }, {
+            "fname": "Tom",
+            "lname": "Riley",
+            "course": ["Game Design", "Graphic Design", "Chemistry", "Algebra"],
+            "gpa": ["D", "B", "F", "C"]
+        }, {
+            "fname": "Paul",
+            "lname": "Riley",
+            "course": ["Game Design", "English", "Chemistry", "Statistics"],
+            "gpa": ["A", "A", "A", "A"]
+        }
+    ]
+}
