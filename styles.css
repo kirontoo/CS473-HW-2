@@ -29,6 +29,12 @@
     margin: 3%;
 }
 
+.student-results ul li:hover {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .grade-results {
     margin: 3%;
 }
