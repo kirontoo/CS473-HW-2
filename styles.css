@@ -1,0 +1,44 @@
+.container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8%;
+    border: 5px solid lightblue;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    padding: 5%;
+}
+
+.header #lname {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.results {
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+    border: 2px solid lightblue;
+    justify-content: space-around;
+}
+
+.student-results {
+    margin: 3%;
+}
+
+.grade-results {
+    margin: 3%;
+}
+
+.grade-results table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.grade-results th, td {
+    padding: 4%;
+    text-align: left;
+}
