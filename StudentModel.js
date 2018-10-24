@@ -1,3 +1,6 @@
+// CS-473 HW #2
+// Amy Nguyen-Dang
+
 var StudentModel = function StudentModel(XMLHttpRequest) {
     this.XMLHttpRequest = XMLHttpRequest;
 }
