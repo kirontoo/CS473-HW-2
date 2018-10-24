@@ -17,7 +17,7 @@ StudentModel.prototype.getStudents = function getStudents(lname, fn) {
         var list = response.students;
 
         // Find all students with the same last name
-        list.forEach( (student) => {
+        list.forEach((student) => {
             if (student.lname === lname) {
                 students.push(student)
             }
@@ -45,7 +45,7 @@ StudentModel.prototype.getGrades = function getGrades(fname, lname, fn) {
         var student = {};
 
         // Find all students with the same first and last name
-        list.forEach( (s) => {
+        list.forEach((s) => {
             if (s.lname === lname && s.fname == fname) {
                 student = s;
             }

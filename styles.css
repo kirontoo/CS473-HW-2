@@ -37,14 +37,14 @@
 
 .grade-results {
     margin: 3%;
+    text-align: center;
 }
 
-.grade-results table, th, td {
+.grade-results table, tr, th {
     border: 1px solid black;
     border-collapse: collapse;
 }
 
-.grade-results th, td {
-    padding: 4%;
-    text-align: left;
+.grade-results tr, td {
+    border: 1px solid black;
 }
