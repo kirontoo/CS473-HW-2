@@ -23,9 +23,6 @@ StudentModel.prototype.getStudents = function getStudents(lname, fn) {
             }
         });
 
-        console.log(students);
-
-        // Call showStudents
         fn(students);
     };
 
